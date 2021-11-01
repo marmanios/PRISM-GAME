@@ -1,0 +1,5 @@
+Run Prism.Exe
+
+Extract all files into desired folder
+
+Run prism_main.py
